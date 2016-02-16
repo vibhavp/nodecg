@@ -23,6 +23,7 @@ node_modules/
 
 # Code coverage results
 /coverage
+.nyc_output
 
 # Test folders
 /bundles2

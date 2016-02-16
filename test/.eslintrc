@@ -1,0 +1,9 @@
+{
+	"extends": "xo/esnext",
+	"plugins": [
+		"ava"
+	],
+	"rules": {
+		"ava/test-ended": 2
+	}
+}
